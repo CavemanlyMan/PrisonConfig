@@ -1,0 +1,12 @@
+{
+  "name": "sOre",
+  "world": "world",
+  "minX": -1135,
+  "minY": 12,
+  "minZ": 1289,
+  "maxX": -1104,
+  "maxY": 69,
+  "maxZ": 1299,
+  "blocks": {},
+  "ranks": []
+}

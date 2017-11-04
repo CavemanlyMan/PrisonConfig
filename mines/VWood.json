@@ -1,0 +1,12 @@
+{
+  "name": "VWood",
+  "world": "world",
+  "minX": -1518,
+  "minY": 21,
+  "minZ": 724,
+  "maxX": -1466,
+  "maxY": 58,
+  "maxZ": 742,
+  "blocks": {},
+  "ranks": []
+}

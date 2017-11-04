@@ -1,0 +1,12 @@
+{
+  "name": "rOre",
+  "world": "world",
+  "minX": -1329,
+  "minY": 57,
+  "minZ": 1284,
+  "maxX": -1298,
+  "maxY": 121,
+  "maxZ": 1294,
+  "blocks": {},
+  "ranks": []
+}

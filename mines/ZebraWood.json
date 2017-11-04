@@ -1,0 +1,12 @@
+{
+  "name": "ZebraWood",
+  "world": "world",
+  "minX": -1156,
+  "minY": 4,
+  "minZ": 129,
+  "maxX": -1125,
+  "maxY": 63,
+  "maxZ": 139,
+  "blocks": {},
+  "ranks": []
+}

@@ -1,0 +1,12 @@
+{
+  "name": "qWood",
+  "world": "world",
+  "minX": -1360,
+  "minY": 6,
+  "minZ": 1050,
+  "maxX": -1328,
+  "maxY": 84,
+  "maxZ": 1060,
+  "blocks": {},
+  "ranks": []
+}

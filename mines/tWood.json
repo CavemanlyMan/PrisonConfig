@@ -1,0 +1,12 @@
+{
+  "name": "tWood",
+  "world": "world",
+  "minX": -1098,
+  "minY": 7,
+  "minZ": 894,
+  "maxX": -1087,
+  "maxY": 68,
+  "maxZ": 914,
+  "blocks": {},
+  "ranks": []
+}

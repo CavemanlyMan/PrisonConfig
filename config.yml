@@ -1,0 +1,18 @@
+#== Prison 2.0 Configuration ==#
+#     (C) 2014 SirFaizdat      #
+#== == == == === == == == == ==#
+
+server-prefix: "&4Prison &7>"
+check-updates: true
+
+reset-time: 30
+reset-warnings: [10,1]
+fill-mode: true
+
+autosmelt-particle-effect: true
+
+reset-warning-message: "&6Mines will reset in &c<mins> &6minutes!"
+reset-broadcast-message: "&aMines have been reset!"
+
+multiworld: false
+world-list: [plots, mines]

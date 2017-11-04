@@ -1,0 +1,12 @@
+{
+  "name": "ZebraOre",
+  "world": "world",
+  "minX": -1156,
+  "minY": 4,
+  "minZ": 169,
+  "maxX": -1125,
+  "maxY": 63,
+  "maxZ": 179,
+  "blocks": {},
+  "ranks": []
+}

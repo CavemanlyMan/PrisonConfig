@@ -1,0 +1,12 @@
+{
+  "name": "whiskeywood",
+  "world": "world",
+  "minX": -1156,
+  "minY": 2,
+  "minZ": 613,
+  "maxX": -1125,
+  "maxY": 63,
+  "maxZ": 629,
+  "blocks": {},
+  "ranks": []
+}

@@ -1,0 +1,12 @@
+{
+  "name": "uOre",
+  "world": "world",
+  "minX": -916,
+  "minY": 20,
+  "minZ": 1032,
+  "maxX": -873,
+  "maxY": 64,
+  "maxZ": 1051,
+  "blocks": {},
+  "ranks": []
+}

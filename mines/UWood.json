@@ -1,0 +1,12 @@
+{
+  "name": "UWood",
+  "world": "world",
+  "minX": -1000,
+  "minY": 20,
+  "minZ": 1092,
+  "maxX": -957,
+  "maxY": 64,
+  "maxZ": 1111,
+  "blocks": {},
+  "ranks": []
+}

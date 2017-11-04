@@ -1,0 +1,12 @@
+{
+  "name": "WhiskeyOre",
+  "world": "world",
+  "minX": -1156,
+  "minY": 2,
+  "minZ": 582,
+  "maxX": -1125,
+  "maxY": 63,
+  "maxZ": 598,
+  "blocks": {},
+  "ranks": []
+}

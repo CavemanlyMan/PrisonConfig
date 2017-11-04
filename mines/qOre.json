@@ -1,0 +1,12 @@
+{
+  "name": "qOre",
+  "world": "world",
+  "minX": -1360,
+  "minY": 6,
+  "minZ": 1094,
+  "maxX": -1328,
+  "maxY": 84,
+  "maxZ": 1104,
+  "blocks": {},
+  "ranks": []
+}

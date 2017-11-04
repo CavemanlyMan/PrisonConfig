@@ -1,0 +1,12 @@
+{
+  "name": "sWood",
+  "world": "world",
+  "minX": -1135,
+  "minY": 12,
+  "minZ": 1245,
+  "maxX": -1104,
+  "maxY": 69,
+  "maxZ": 1255,
+  "blocks": {},
+  "ranks": []
+}

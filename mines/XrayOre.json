@@ -1,0 +1,12 @@
+{
+  "name": "XrayOre",
+  "world": "world",
+  "minX": -1448,
+  "minY": 17,
+  "minZ": 434,
+  "maxX": -1398,
+  "maxY": 68,
+  "maxZ": 458,
+  "blocks": {},
+  "ranks": []
+}
